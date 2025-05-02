@@ -50,6 +50,8 @@ Feel has park kind arch land.
 
 Feel has park mark.
 
+Feel has park cross.
+
 Feel has major.
 
 Feel is client specific.
