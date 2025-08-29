@@ -60,7 +60,7 @@ Feel is client specific.
 
 FEEL is any feel included.
 
-FEEL gain has MARK gain.
+FEEL gain can has MARK gain.
 
 FEEL gain has TIME gain.
 
