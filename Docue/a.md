@@ -63,3 +63,7 @@ FEEL is any feel included.
 FEEL gain has MARK gain.
 
 FEEL gain has TIME gain.
+
+FEEL gain has MINE gain.
+
+FEEL gain has LOVE gain.
