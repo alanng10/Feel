@@ -68,7 +68,7 @@ FEEL gain has MINE gain.
 
 FEEL gain has LOVE gain.
 
-FEEL GAIN is MOST GAIN.
+FEEL GAIN can be MOST GAIN.
 
 FEEL is form specific.
 
