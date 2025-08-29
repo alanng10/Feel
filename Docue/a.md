@@ -68,4 +68,4 @@ FEEL gain has MINE gain.
 
 FEEL gain has LOVE gain.
 
-FEEL GAIN IS MOST GAIN.
+FEEL GAIN is MOST GAIN.
