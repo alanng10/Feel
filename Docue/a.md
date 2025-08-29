@@ -71,3 +71,5 @@ FEEL gain has LOVE gain.
 FEEL GAIN is MOST GAIN.
 
 FEEL is form specific.
+
+FEEL is not PARK.
