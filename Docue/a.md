@@ -73,3 +73,10 @@ FEEL GAIN can be MOST GAIN.
 FEEL is form specific.
 
 FEEL is not PARK.
+
+Feel word has spell.
+The spell is:
+"F" for Friend Park.
+"e" for effect class.
+"e" for effect any.
+"l" for live emit.
