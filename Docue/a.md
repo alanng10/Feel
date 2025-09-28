@@ -74,6 +74,14 @@ FEEL is form specific.
 
 FEEL is not PARK.
 
+Feel gene is most gene.
+
+Feel time is most time.
+
+Feel seer is most seer.
+
+Feel love is most love.
+
 Feel word has spell.
 The spell is:
 "F" for Friend Park.
