@@ -74,7 +74,7 @@ FEEL is form specific.
 
 FEEL is not PARK.
 
-Feel feel is most feel.
+Feel feel is most feel. 
 
 Feel word has spell.
 The spell is:
