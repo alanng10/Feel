@@ -78,7 +78,7 @@ Feel feel is most feel.
 
 Feel word has spell.
 The spell is:
-"F" for Friend Park.
-"e" for effect class.
-"e" for effect any.
-"l" for live emit.
+"F" for Frien Time.
+"e" for emit desire.
+"e" for emit recall.
+"l" for live change.
