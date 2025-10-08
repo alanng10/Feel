@@ -74,19 +74,7 @@ FEEL is form specific.
 
 FEEL is not PARK.
 
-Feel is most form in Grand.
-
-Feel is most form gain.
-
 Feel feel is most feel.
-
-Feel gene is most gene.
-
-Feel time is most time.
-
-Feel seer is most seer.
-
-Feel love is most love.
 
 Feel word has spell.
 The spell is:
