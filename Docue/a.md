@@ -60,16 +60,6 @@ Feel is client specific.
 
 FEEL is any feel included.
 
-FEEL gain can has MARK gain.
-
-FEEL gain has TIME gain.
-
-FEEL gain has MINE gain.
-
-FEEL gain has LOVE gain.
-
-FEEL GAIN can be MOST GAIN.
-
 FEEL is form specific.
 
 FEEL is not PARK.
